@@ -1,0 +1,1 @@
+ # Authentication initgit add .git commit -m first commits git branch -M main git remote add origin https://github.com/Mathumitha-spring/demo.git
